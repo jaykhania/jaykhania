@@ -1,4 +1,4 @@
-aa<h1 align="center">Hi there, I'm Jay Khania 👋</h1>aa
+aa<h1 align="center">Hi there, I'm Jay Khania 👋</h1>
 <h3 align="center">Data Scientist | Full Stack Developer</h3>
 
 <p align="center">
